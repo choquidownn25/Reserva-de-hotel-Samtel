@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3RBdvhjk5mh7FDD5mRXr0QDhOLIhnwhl15wQu1W5AZg2QdeffseYz6LW07ik+Zu7+GxdPlvcxKSA42Tk1FFwxQ==",
+  "dgSpecHash": "dgYCZ3XKtK0XglfaaSmvtC7DcJnISGIQBI0+MF1GOcx/xAiw37t4Uq748scmdSYMPKkkhscug+p8cNVlODL/YQ==",
   "success": true,
-  "projectFilePath": "C:\\Samtel\\Web Api\\CapaConexion\\CapaConexion.csproj",
+  "projectFilePath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaConexion\\CapaConexion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.6\\microsoft.entityframeworkcore.2.2.6.nupkg.sha512",

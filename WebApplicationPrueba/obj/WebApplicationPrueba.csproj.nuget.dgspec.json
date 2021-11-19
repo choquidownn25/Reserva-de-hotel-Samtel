@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Samtel\\Web Api\\WebApplicationPrueba\\WebApplicationPrueba.csproj": {}
+    "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\WebApplicationPrueba\\WebApplicationPrueba.csproj": {}
   },
   "projects": {
-    "C:\\Samtel\\Web Api\\CapaConexion\\CapaConexion.csproj": {
+    "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaConexion\\CapaConexion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Samtel\\Web Api\\CapaConexion\\CapaConexion.csproj",
+        "projectUniqueName": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaConexion\\CapaConexion.csproj",
         "projectName": "CapaConexion",
-        "projectPath": "C:\\Samtel\\Web Api\\CapaConexion\\CapaConexion.csproj",
+        "projectPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaConexion\\CapaConexion.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Samtel\\Web Api\\CapaConexion\\obj\\",
+        "outputPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaConexion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Samtel\\Web Api\\CapaDomain\\CapaDomain.csproj": {
+    "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaDomain\\CapaDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Samtel\\Web Api\\CapaDomain\\CapaDomain.csproj",
+        "projectUniqueName": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaDomain\\CapaDomain.csproj",
         "projectName": "CapaDomain",
-        "projectPath": "C:\\Samtel\\Web Api\\CapaDomain\\CapaDomain.csproj",
+        "projectPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaDomain\\CapaDomain.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Samtel\\Web Api\\CapaDomain\\obj\\",
+        "outputPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Samtel\\Web Api\\CapaRepository\\CapaRepository.csproj": {
+    "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaRepository\\CapaRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Samtel\\Web Api\\CapaRepository\\CapaRepository.csproj",
+        "projectUniqueName": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaRepository\\CapaRepository.csproj",
         "projectName": "CapaRepository",
-        "projectPath": "C:\\Samtel\\Web Api\\CapaRepository\\CapaRepository.csproj",
+        "projectPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaRepository\\CapaRepository.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Samtel\\Web Api\\CapaRepository\\obj\\",
+        "outputPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -178,8 +178,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Samtel\\Web Api\\CapaService\\CapaService.csproj": {
-                "projectPath": "C:\\Samtel\\Web Api\\CapaService\\CapaService.csproj"
+              "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaService\\CapaService.csproj": {
+                "projectPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaService\\CapaService.csproj"
               }
             }
           }
@@ -212,14 +212,14 @@
         }
       }
     },
-    "C:\\Samtel\\Web Api\\CapaService\\CapaService.csproj": {
+    "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaService\\CapaService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Samtel\\Web Api\\CapaService\\CapaService.csproj",
+        "projectUniqueName": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaService\\CapaService.csproj",
         "projectName": "CapaService",
-        "projectPath": "C:\\Samtel\\Web Api\\CapaService\\CapaService.csproj",
+        "projectPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaService\\CapaService.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Samtel\\Web Api\\CapaService\\obj\\",
+        "outputPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -242,11 +242,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Samtel\\Web Api\\CapaConexion\\CapaConexion.csproj": {
-                "projectPath": "C:\\Samtel\\Web Api\\CapaConexion\\CapaConexion.csproj"
+              "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaConexion\\CapaConexion.csproj": {
+                "projectPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaConexion\\CapaConexion.csproj"
               },
-              "C:\\Samtel\\Web Api\\CapaDomain\\CapaDomain.csproj": {
-                "projectPath": "C:\\Samtel\\Web Api\\CapaDomain\\CapaDomain.csproj"
+              "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaDomain\\CapaDomain.csproj": {
+                "projectPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaDomain\\CapaDomain.csproj"
               }
             }
           }
@@ -279,14 +279,14 @@
         }
       }
     },
-    "C:\\Samtel\\Web Api\\WebApplicationPrueba\\WebApplicationPrueba.csproj": {
+    "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\WebApplicationPrueba\\WebApplicationPrueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Samtel\\Web Api\\WebApplicationPrueba\\WebApplicationPrueba.csproj",
+        "projectUniqueName": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\WebApplicationPrueba\\WebApplicationPrueba.csproj",
         "projectName": "WebApplicationPrueba",
-        "projectPath": "C:\\Samtel\\Web Api\\WebApplicationPrueba\\WebApplicationPrueba.csproj",
+        "projectPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\WebApplicationPrueba\\WebApplicationPrueba.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Samtel\\Web Api\\WebApplicationPrueba\\obj\\",
+        "outputPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\WebApplicationPrueba\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -309,11 +309,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Samtel\\Web Api\\CapaConexion\\CapaConexion.csproj": {
-                "projectPath": "C:\\Samtel\\Web Api\\CapaConexion\\CapaConexion.csproj"
+              "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaConexion\\CapaConexion.csproj": {
+                "projectPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaConexion\\CapaConexion.csproj"
               },
-              "C:\\Samtel\\Web Api\\CapaRepository\\CapaRepository.csproj": {
-                "projectPath": "C:\\Samtel\\Web Api\\CapaRepository\\CapaRepository.csproj"
+              "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaRepository\\CapaRepository.csproj": {
+                "projectPath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaRepository\\CapaRepository.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HkzvlmTcIkR8WGhlJP7JR6jrqlSG8dVSD7o6ZtIy3v23+g70kPTFYvu6+A9t9lW3qzdCMcoXLnuT8E1T1jedhQ==",
+  "dgSpecHash": "NsfyO7e5T0jVrVn7URoJS5gdpttmSt7i7XKghQxO9GFO/79UhfvSc0E28wUNjxuKGSWz4Fv+Nooy2XrZ/YR5gg==",
   "success": true,
-  "projectFilePath": "C:\\Samtel\\Web Api\\CapaDomain\\CapaDomain.csproj",
+  "projectFilePath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\CapaDomain\\CapaDomain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

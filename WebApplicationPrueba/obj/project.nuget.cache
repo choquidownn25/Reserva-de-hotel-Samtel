@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6AvUOW7vGLULbo3dIBFwstVwlK0YvPsa8MXBw1pprA2FzTjKvBsztNPE2sYzSBqq3ReJlJVvc25TwmUoa63v0w==",
+  "dgSpecHash": "KGx2sPLBZTZeiHgHf3Q8xZ0k0eVFSvaG9qXHehSqnF0V5Jd4Lw9MOIIvR7ckA81VoKpyiAkX0AaJ2qImIAjiPw==",
   "success": true,
-  "projectFilePath": "C:\\Samtel\\Web Api\\WebApplicationPrueba\\WebApplicationPrueba.csproj",
+  "projectFilePath": "C:\\Samtel\\Web Api\\Reserva-de-hotel-Samtel\\WebApplicationPrueba\\WebApplicationPrueba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.6\\microsoft.entityframeworkcore.2.2.6.nupkg.sha512",
