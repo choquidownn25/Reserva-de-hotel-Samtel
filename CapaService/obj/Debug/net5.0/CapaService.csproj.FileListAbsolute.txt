@@ -1,0 +1,17 @@
+C:\Samtel\Web Api\CapaService\bin\Debug\net5.0\CapaService.deps.json
+C:\Samtel\Web Api\CapaService\bin\Debug\net5.0\CapaService.dll
+C:\Samtel\Web Api\CapaService\bin\Debug\net5.0\ref\CapaService.dll
+C:\Samtel\Web Api\CapaService\bin\Debug\net5.0\CapaService.pdb
+C:\Samtel\Web Api\CapaService\obj\Debug\net5.0\CapaService.csproj.AssemblyReference.cache
+C:\Samtel\Web Api\CapaService\obj\Debug\net5.0\CapaService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samtel\Web Api\CapaService\obj\Debug\net5.0\CapaService.AssemblyInfoInputs.cache
+C:\Samtel\Web Api\CapaService\obj\Debug\net5.0\CapaService.AssemblyInfo.cs
+C:\Samtel\Web Api\CapaService\obj\Debug\net5.0\CapaService.csproj.CoreCompileInputs.cache
+C:\Samtel\Web Api\CapaService\obj\Debug\net5.0\CapaService.dll
+C:\Samtel\Web Api\CapaService\obj\Debug\net5.0\ref\CapaService.dll
+C:\Samtel\Web Api\CapaService\obj\Debug\net5.0\CapaService.pdb
+C:\Samtel\Web Api\CapaService\bin\Debug\net5.0\CapaConexion.dll
+C:\Samtel\Web Api\CapaService\bin\Debug\net5.0\CapaDomain.dll
+C:\Samtel\Web Api\CapaService\bin\Debug\net5.0\CapaConexion.pdb
+C:\Samtel\Web Api\CapaService\bin\Debug\net5.0\CapaDomain.pdb
+C:\Samtel\Web Api\CapaService\obj\Debug\net5.0\CapaService.csproj.CopyComplete

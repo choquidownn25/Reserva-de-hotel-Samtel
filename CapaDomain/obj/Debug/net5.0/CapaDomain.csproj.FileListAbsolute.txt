@@ -1,0 +1,12 @@
+C:\Samtel\Web Api\CapaDomain\bin\Debug\net5.0\CapaDomain.deps.json
+C:\Samtel\Web Api\CapaDomain\bin\Debug\net5.0\CapaDomain.dll
+C:\Samtel\Web Api\CapaDomain\bin\Debug\net5.0\ref\CapaDomain.dll
+C:\Samtel\Web Api\CapaDomain\bin\Debug\net5.0\CapaDomain.pdb
+C:\Samtel\Web Api\CapaDomain\obj\Debug\net5.0\CapaDomain.csproj.AssemblyReference.cache
+C:\Samtel\Web Api\CapaDomain\obj\Debug\net5.0\CapaDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samtel\Web Api\CapaDomain\obj\Debug\net5.0\CapaDomain.AssemblyInfoInputs.cache
+C:\Samtel\Web Api\CapaDomain\obj\Debug\net5.0\CapaDomain.AssemblyInfo.cs
+C:\Samtel\Web Api\CapaDomain\obj\Debug\net5.0\CapaDomain.csproj.CoreCompileInputs.cache
+C:\Samtel\Web Api\CapaDomain\obj\Debug\net5.0\CapaDomain.dll
+C:\Samtel\Web Api\CapaDomain\obj\Debug\net5.0\ref\CapaDomain.dll
+C:\Samtel\Web Api\CapaDomain\obj\Debug\net5.0\CapaDomain.pdb
