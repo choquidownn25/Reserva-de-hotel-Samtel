@@ -1,7 +1,7 @@
 # Reserva-de-hotel-Samtel
 
 # Asp.Net 5.0
-Api de desarrollo de la empresa Samtel, donde se realiza el consumo de las api, con la documentación en Swagger con base de datos Sql Server
+Api de desarrollo de la empresa Samtel, donde se realiza el consumo de las api, documentación en Swagger con base de datos Sql Server
 
 
 ![inventory](https://github.com/choquidownn25/Reserva-de-hotel-Samtel/blob/main/WebApplicationPrueba/Api.jpg)
